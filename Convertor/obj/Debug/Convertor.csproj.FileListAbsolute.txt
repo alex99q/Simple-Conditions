@@ -1,0 +1,6 @@
+D:\Programirane\Simple_Condirions\Convertor\bin\Debug\Convertor.exe.config
+D:\Programirane\Simple_Condirions\Convertor\bin\Debug\Convertor.exe
+D:\Programirane\Simple_Condirions\Convertor\bin\Debug\Convertor.pdb
+D:\Programirane\Simple_Condirions\Convertor\obj\Debug\Convertor.csprojResolveAssemblyReference.cache
+D:\Programirane\Simple_Condirions\Convertor\obj\Debug\Convertor.exe
+D:\Programirane\Simple_Condirions\Convertor\obj\Debug\Convertor.pdb

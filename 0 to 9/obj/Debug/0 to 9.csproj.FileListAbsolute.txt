@@ -1,0 +1,6 @@
+D:\Programirane\Simple_Condirions\0 to 9\bin\Debug\0 to 9.exe.config
+D:\Programirane\Simple_Condirions\0 to 9\bin\Debug\0 to 9.exe
+D:\Programirane\Simple_Condirions\0 to 9\bin\Debug\0 to 9.pdb
+D:\Programirane\Simple_Condirions\0 to 9\obj\Debug\0 to 9.csprojResolveAssemblyReference.cache
+D:\Programirane\Simple_Condirions\0 to 9\obj\Debug\0 to 9.exe
+D:\Programirane\Simple_Condirions\0 to 9\obj\Debug\0 to 9.pdb

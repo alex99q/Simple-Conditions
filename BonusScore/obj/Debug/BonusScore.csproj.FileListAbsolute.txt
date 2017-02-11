@@ -1,0 +1,6 @@
+D:\Programirane\Simple_Condirions\BonusScore\bin\Debug\BonusScore.exe.config
+D:\Programirane\Simple_Condirions\BonusScore\bin\Debug\BonusScore.exe
+D:\Programirane\Simple_Condirions\BonusScore\bin\Debug\BonusScore.pdb
+D:\Programirane\Simple_Condirions\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache
+D:\Programirane\Simple_Condirions\BonusScore\obj\Debug\BonusScore.exe
+D:\Programirane\Simple_Condirions\BonusScore\obj\Debug\BonusScore.pdb
