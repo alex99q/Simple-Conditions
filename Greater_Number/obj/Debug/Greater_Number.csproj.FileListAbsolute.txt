@@ -1,0 +1,5 @@
+D:\Programirane\Simple_Condirions\Greater_Number\bin\Debug\Greater_Number.exe.config
+D:\Programirane\Simple_Condirions\Greater_Number\bin\Debug\Greater_Number.exe
+D:\Programirane\Simple_Condirions\Greater_Number\bin\Debug\Greater_Number.pdb
+D:\Programirane\Simple_Condirions\Greater_Number\obj\Debug\Greater_Number.exe
+D:\Programirane\Simple_Condirions\Greater_Number\obj\Debug\Greater_Number.pdb

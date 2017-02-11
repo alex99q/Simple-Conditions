@@ -1,0 +1,9 @@
+D:\Programirane\Simple_Condirions\Otlichna_ocenka\bin\Debug\Otlichna_ocenka.exe.config
+D:\Programirane\Simple_Condirions\Otlichna_ocenka\bin\Debug\Otlichna_ocenka.exe
+D:\Programirane\Simple_Condirions\Otlichna_ocenka\bin\Debug\Otlichna_ocenka.pdb
+D:\Programirane\Simple_Condirions\Otlichna_ocenka\obj\Debug\Otlichna_ocenka.csprojResolveAssemblyReference.cache
+D:\Programirane\Simple_Condirions\Otlichna_ocenka\obj\Debug\Otlichna_ocenka.exe
+D:\Programirane\Simple_Condirions\Otlichna_ocenka\obj\Debug\Otlichna_ocenka.pdb
+D:\Programirane\Programming Basics\Simple_Condirions\Otlichna_ocenka\bin\Debug\Otlichna_ocenka.exe.config
+D:\Programirane\Programming Basics\Simple_Condirions\Otlichna_ocenka\obj\Debug\Otlichna_ocenka.exe
+D:\Programirane\Programming Basics\Simple_Condirions\Otlichna_ocenka\obj\Debug\Otlichna_ocenka.pdb
