@@ -1,0 +1,9 @@
+D:\Programirane\Simple_Condirions\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Programirane\Programming Basics\Simple_Conditions\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Programirane\Programming Basics\Simple_Conditions\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Programirane\Programming Basics\Simple_Conditions\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Programirane\Programming Basics\Simple_Conditions\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Programirane\Programming Basics\Simple_Conditions\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Programirane\Programming Basics\Simple_Conditions\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Programirane\Programming Basics\Simple_Conditions\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Programirane\Programming Basics\Simple_Conditions\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

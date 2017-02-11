@@ -1,0 +1,9 @@
+D:\Programirane\Simple_Condirions\time+15min\bin\Debug\time+15min.exe.config
+D:\Programirane\Simple_Condirions\time+15min\bin\Debug\time+15min.exe
+D:\Programirane\Simple_Condirions\time+15min\bin\Debug\time+15min.pdb
+D:\Programirane\Simple_Condirions\time+15min\obj\Debug\time+15min.csprojResolveAssemblyReference.cache
+D:\Programirane\Simple_Condirions\time+15min\obj\Debug\time+15min.exe
+D:\Programirane\Simple_Condirions\time+15min\obj\Debug\time+15min.pdb
+D:\Programirane\Programming Basics\Simple_Condirions\time+15min\bin\Debug\time+15min.exe.config
+D:\Programirane\Programming Basics\Simple_Condirions\time+15min\obj\Debug\time+15min.exe
+D:\Programirane\Programming Basics\Simple_Condirions\time+15min\obj\Debug\time+15min.pdb
