@@ -1,1 +1,2 @@
 D:\Programirane\Simple_Condirions\0To100\bin\Debug\0To100.exe.config
+D:\Programirane\Programming Basics\Simple-Conditions\0To100\bin\Debug\0To100.exe.config

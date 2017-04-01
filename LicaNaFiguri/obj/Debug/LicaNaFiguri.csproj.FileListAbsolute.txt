@@ -1,1 +1,2 @@
 D:\Programirane\Simple_Condirions\LicaNaFiguri\bin\Debug\LicaNaFiguri.exe.config
+D:\Programirane\Programming Basics\Simple-Conditions\LicaNaFiguri\bin\Debug\LicaNaFiguri.exe.config

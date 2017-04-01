@@ -3,3 +3,6 @@ D:\Programirane\Simple_Condirions\SimilarWords\bin\Debug\SimilarWords.exe
 D:\Programirane\Simple_Condirions\SimilarWords\bin\Debug\SimilarWords.pdb
 D:\Programirane\Simple_Condirions\SimilarWords\obj\Debug\SimilarWords.exe
 D:\Programirane\Simple_Condirions\SimilarWords\obj\Debug\SimilarWords.pdb
+D:\Programirane\Programming Basics\Simple-Conditions\SimilarWords\bin\Debug\SimilarWords.exe.config
+D:\Programirane\Programming Basics\Simple-Conditions\SimilarWords\obj\Debug\SimilarWords.exe
+D:\Programirane\Programming Basics\Simple-Conditions\SimilarWords\obj\Debug\SimilarWords.pdb

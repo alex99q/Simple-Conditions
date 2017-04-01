@@ -1,1 +1,2 @@
 D:\Programirane\Simple_Condirions\3EqualNumbers\bin\Debug\3EqualNumbers.exe.config
+D:\Programirane\Programming Basics\Simple-Conditions\3EqualNumbers\bin\Debug\3EqualNumbers.exe.config

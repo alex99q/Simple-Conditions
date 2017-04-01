@@ -4,3 +4,6 @@ D:\Programirane\Simple_Condirions\from100to200\bin\Debug\from100to200.pdb
 D:\Programirane\Simple_Condirions\from100to200\obj\Debug\from100to200.csprojResolveAssemblyReference.cache
 D:\Programirane\Simple_Condirions\from100to200\obj\Debug\from100to200.exe
 D:\Programirane\Simple_Condirions\from100to200\obj\Debug\from100to200.pdb
+D:\Programirane\Programming Basics\Simple-Conditions\from100to200\bin\Debug\from100to200.exe.config
+D:\Programirane\Programming Basics\Simple-Conditions\from100to200\obj\Debug\from100to200.exe
+D:\Programirane\Programming Basics\Simple-Conditions\from100to200\obj\Debug\from100to200.pdb

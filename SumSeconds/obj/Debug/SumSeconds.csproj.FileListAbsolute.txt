@@ -6,3 +6,6 @@ D:\Programirane\Simple_Condirions\SumSeconds\obj\Debug\SumSeconds.pdb
 D:\Programirane\Programming Basics\Simple_Condirions\SumSeconds\bin\Debug\SumSeconds.exe.config
 D:\Programirane\Programming Basics\Simple_Condirions\SumSeconds\obj\Debug\SumSeconds.exe
 D:\Programirane\Programming Basics\Simple_Condirions\SumSeconds\obj\Debug\SumSeconds.pdb
+D:\Programirane\Programming Basics\Simple-Conditions\SumSeconds\bin\Debug\SumSeconds.exe.config
+D:\Programirane\Programming Basics\Simple-Conditions\SumSeconds\obj\Debug\SumSeconds.exe
+D:\Programirane\Programming Basics\Simple-Conditions\SumSeconds\obj\Debug\SumSeconds.pdb
